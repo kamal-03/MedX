@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "/home/kamal/Desktop/MedX/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/kamal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/541fb51cd9d13a3c8d4cde103014c284/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "229",
+                        "endColumns": "48",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/kamal/AndroidStudioProjects/Medx app/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {

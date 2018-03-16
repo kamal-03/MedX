@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
 MERGED from [com.android.support:design:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/3ba54fb6e3ab1ca8f7e66a13826793a4/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/3969b9ed129ac1f5296005bb25794cad/AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-cast:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.4.0.aar/881199dc557f741f68b61b68685ea98d/AndroidManifest.xml:16:1-20:12
@@ -35,33 +35,33 @@ MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /home/kamal/.g
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-base-8.4.0.aar/96dddeb7eeb19d19b9558560573dc637/AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/f2ca9eceaffab8f6583de559319c19c8/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/a8f2e7d7320a48dda66fe70da3800234/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
 	package
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:3:5-40
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:1-82:12
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:2:11-69
 uses-feature#0x00020000
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:5:5-7:35
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:5:5-7:35
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/4ebd3d8814c9e068a4991c8fea65eb1b/AndroidManifest.xml:22:5-24:33
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/4ebd3d8814c9e068a4991c8fea65eb1b/AndroidManifest.xml:22:5-24:33
 	android:glEsVersion
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:6:9-41
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:6:9-41
 	android:required
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:7:9-32
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:7:9-32
 uses-permission#android.permission.INTERNET
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:9:5-67
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/4ebd3d8814c9e068a4991c8fea65eb1b/AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/4ebd3d8814c9e068a4991c8fea65eb1b/AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/6810fd573bbf32de9dc4f757ae8e2205/AndroidManifest.xml:20:5-66
@@ -75,29 +75,29 @@ MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /home/kamal
 MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/8667d635a8f57a3e3deeb2b1211efd54/AndroidManifest.xml:19:5-67
 MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.4.0.aar/8667d635a8f57a3e3deeb2b1211efd54/AndroidManifest.xml:19:5-67
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:9:22-64
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:9:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:10:5-79
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:11:5-81
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:11:22-78
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:11:22-78
 uses-permission#android.permission.CALL_PHONE
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:12:5-69
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:12:5-69
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:12:22-66
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:12:22-66
 uses-permission#myapp.permission.MAPS_RECEIVE
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:14:5-69
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:14:5-69
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:14:22-66
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:14:22-66
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:15:5-98
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:15:22-95
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:15:22-95
 application
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:22:5-80:19
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:22:5-80:19
 MERGED from [com.android.support:design:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/3ba54fb6e3ab1ca8f7e66a13826793a4/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/3ba54fb6e3ab1ca8f7e66a13826793a4/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/3969b9ed129ac1f5296005bb25794cad/AndroidManifest.xml:19:5-20
@@ -155,91 +155,91 @@ MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/kamal/.g
 MERGED from [com.android.support:support-v4:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/a8f2e7d7320a48dda66fe70da3800234/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/a8f2e7d7320a48dda66fe70da3800234/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:28:9-35
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:26:9-43
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:26:9-43
 	android:allowBackup
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:25:9-35
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:25:9-35
 	android:theme
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:29:9-40
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:29:9-40
 uses-library#com.google.android.maps
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:30:9-31:54
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:30:9-31:54
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:31:13-51
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:31:13-51
 activity#com.example.kamal.sync123.SplashScreen
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:33:9-43:20
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:33:9-43:20
 	android:screenOrientation
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:36:13-49
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:36:13-49
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:35:13-45
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:35:13-45
 	android:theme
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:37:13-66
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:37:13-66
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:34:13-41
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:34:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:38:13-42:29
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:38:13-42:29
 action#android.intent.action.MAIN
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:39:17-69
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:39:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:41:17-77
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:41:17-77
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:41:27-74
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:41:27-74
 meta-data#com.google.android.geo.API_KEY
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:53:9-55:71
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:53:9-55:71
 	android:value
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:55:13-68
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:55:13-68
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:54:13-58
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:54:13-58
 activity#com.example.kamal.sync123.MapsActivity
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:57:9-63:20
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:57:9-63:20
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:59:13-56
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:59:13-56
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:58:13-41
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:58:13-41
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:60:13-62:74
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:60:13-62:74
 	android:value
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:62:17-71
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:62:17-71
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:61:17-63
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:61:17-63
 activity#com.example.kamal.sync123.YouTubeActivity
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:64:9-67:59
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:64:9-67:59
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:66:13-60
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:66:13-60
 	android:theme
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:67:13-56
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:67:13-56
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:65:13-44
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:65:13-44
 activity#com.example.kamal.sync123.YouTubeList
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:68:9-71:59
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:68:9-71:59
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:70:13-65
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:70:13-65
 	android:theme
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:71:13-56
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:71:13-56
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:69:13-40
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:69:13-40
 activity#com.example.kamal.sync123.MainActivity
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:72:9-75:59
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:72:9-75:59
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:74:13-45
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:74:13-45
 	android:theme
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:75:13-56
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:75:13-56
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:73:13-41
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:73:13-41
 activity#com.example.kamal.sync123.input
-ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:76:9-79:25
+ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:76:9-79:25
 	android:label
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:78:13-40
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:78:13-40
 	android:name
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml:77:13-34
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml:77:13-34
 uses-sdk
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/3ba54fb6e3ab1ca8f7e66a13826793a4/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/design-23.1.1.aar/3ba54fb6e3ab1ca8f7e66a13826793a4/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-8.4.0.aar/3969b9ed129ac1f5296005bb25794cad/AndroidManifest.xml:18:5-42
@@ -302,16 +302,16 @@ MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/kamal/.g
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.4.0.aar/f2ca9eceaffab8f6583de559319c19c8/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/a8f2e7d7320a48dda66fe70da3800234/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] /home/kamal/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/a8f2e7d7320a48dda66fe70da3800234/AndroidManifest.xml:20:5-43
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		ADDED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kamal/AndroidStudioProjects/Medx app/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		ADDED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kamal/Desktop/MedX/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.4.0.aar/4ebd3d8814c9e068a4991c8fea65eb1b/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-ads:8.4.0] /home/kamal/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.4.0.aar/6810fd573bbf32de9dc4f757ae8e2205/AndroidManifest.xml:21:5-78
